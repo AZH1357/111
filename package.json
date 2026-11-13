@@ -1,0 +1,6 @@
+{
+  "name": "dsh-unified-tavern-st",
+  "version": "1.0.0",
+  "description": "DSH Unified Tavern SillyTavern Extension",
+  "main": "src/index.js"
+}
