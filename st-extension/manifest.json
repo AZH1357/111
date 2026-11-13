@@ -1,7 +1,0 @@
-{
-  "display_name": "DSH 统一桥接 (Unified Tavern)",
-  "loading_order": 10,
-  "js": "index.js",
-  "author": "AZH",
-  "version": "1.0.0"
-}
